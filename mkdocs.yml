@@ -1,0 +1,27 @@
+site_name: Austin Raney
+
+nav:
+        - Home: index.md
+        - Resume: resume/index.md
+          
+          
+theme:
+   name: 'material'
+   language: 'en'
+   palette:
+           primary: 'blue grey'
+           accent: 'deep orange'
+   font:
+           text: 'Roboto'
+           code: 'Roboto Mono'
+   logo:
+           icon: 'ac_unit'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/aaraney'
+    - type: 'twitter'
+      link: 'https://twitter.com/a_raney'
+
+site_author: Austin Raney
